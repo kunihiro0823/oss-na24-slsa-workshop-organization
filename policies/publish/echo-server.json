@@ -1,7 +1,7 @@
 {
     "format":1,
     "package": {
-        "name":"docker.io/kunihiro0823/oss-na24-slsa-workshop-project1-echo-server@sha256:ee0ea3911513377699c762dc212a6c7493589f7195e695eb6875b8a3653cfc90",
+        "name":"docker.io/kunihiro0823/oss-na24-slsa-workshop-project1-echo-server",
         "environment":{
             "any_of": [
                 "staging", "prod"
